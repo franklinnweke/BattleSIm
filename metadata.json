@@ -1,0 +1,5 @@
+{
+  "name": "Anime Battle Simulator",
+  "description": "A visually engaging AI-powered battle simulator where users select anime characters to fight, with results narrated by Gemini AI.",
+  "requestFramePermissions": []
+}
